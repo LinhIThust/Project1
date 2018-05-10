@@ -1,0 +1,15 @@
+thanh vien thu 1 :
+6
+1
+18
+dong linh
+thanh vien thu 2 :
+6
+4
+20
+giang huong
+thanh vien thu 3 :
+7
+7
+19
+ haha ngu 
