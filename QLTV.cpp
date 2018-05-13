@@ -2,9 +2,6 @@
 #define MAXN 300
 #define MAXName 34
 #define F(i,a,b) for(int i =a;i<=b;i++)
-#define ID ID
-#define age age
-#define groupID groupID
 //----------------------------------------//
 using namespace std;
 int num=0;
