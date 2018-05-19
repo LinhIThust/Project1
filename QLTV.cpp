@@ -167,8 +167,9 @@ void Menu(){
 }
 
 int main(){
-	char ch;
-	do{
+	printf ("cc");
+	char. ch;
+	do{ 
 		Menu();
 		cout<<"Ban muon tiep tuc hay thoat(Y/N):";
 		cin>>ch;
@@ -178,5 +179,6 @@ int main(){
 	cout<<"Cam on ban da su dung ung dung"<<endl;
 	cout<<"----Copyright :Linhdzai--------";
 	return 0;
+	
 
 }
